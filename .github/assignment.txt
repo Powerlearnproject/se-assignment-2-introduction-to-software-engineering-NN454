@@ -1,0 +1,98 @@
+Assignment: Introduction to Software Engineering
+Instructions:
+Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
+
+Questions:
+Define Software Engineering:
+
+What is software engineering, and how does it differ from traditional programming?
+Software engineering involves desining ,developing ,testing ,deployment of software systems in a systematic and disciplined way thus differs from traditional programming which involves only writing codes and does not focus on the aspect of maintaing the software.
+
+Software Development Life Cycle (SDLC):
+
+Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+
+1.Requirement :At this phase it invovels gathering and analyzing what the users need from the software.
+2.Design: This include  Planning the software’s architecture and interface 
+3.Implementation (or Coding): This is where actual coding starts  based on the design.
+4.Testing: Various taste are conducted at this phase to ensure the software functions and works well.
+5.Deployment: In this phase the Software is relesed for use 
+6.Maintenance: At this point Update and fixing the software carried out after the it has been deployed.
+
+
+Agile vs. Waterfall Models:
+
+Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+The agile model is iterative and flexible allowing for continuous feedback and adaptation making it ideal for projects with evolving requirements. the waterfall model is linear and structured suitable for projects with well defined stable requirements
+
+
+Requirements Engineering:
+
+What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+Requirements Engineering is the process of defining, documenting, and maintaining the requirements for a software system. It involves understanding what users need from the software and ensuring these needs are met.and its importanant to the software development cycle as it reduce cost later in the development process when it comes to maintenace .
+
+Software Design Principles:
+Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+Modularity in software design is a technique where complex software is divided into smaller, independent modules, such as functions. It facilitates easier management and understanding of complex systems by breaking them down into digestible parts.for example  I can work on a  module that handles file uploads without needing to understand the complexity of the reporting module.
+
+Testing in Software Engineering:
+Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+
+1.Unit testing - The main aim reason as to why unit testing is carried out is to determine whether the application functions as designed. 
+2.Integration testing - it allows individuals the opportunity to combine all of the units within a program and test them as a group. 
+3.System testing -this is where the first level in which the complete application is tested as a whole. The goal at this level is to evaluate whether the system has complied with all of the outlined requirements and to see that it meets Quality Standards. 
+4.Acceptance testing -at this level this action is  conducted to determine whether the system is ready for release. 
+thus testing is importannt as it adds value to the software development life cycle.
+
+
+Version Control Systems:
+
+What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+ Version control systems are software tools that help software teams manage changes to source code over time.they keeps track of every modification to the code in a special kind of database, If a mistake is made, developers they can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members. some of the example of popular version control is Git which is free and its an open source.
+
+
+Software Project Management:
+
+Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+Software project manager is responsible for preparation and implementation of the software projects 
+
+some of the resposibility that he/she does are :
+1.Planning Everything from Execution to Delivery
+2.Oversee the Software Development Team
+3.Delegating Work Effectively among developers
+4.Monitoring Progress of the projects 
+Challenges :
+1.Poor communication to the team members thus leading Project not done well
+2.Unclear goals thus leadinging to the failur of the project 
+3.Poor budgeting it can lead to undesirable outcomes like misuse of funds.
+4.Insufficient risk analysis can lead to oversights that fail to foresee major obstacles. 
+
+
+Software Maintenance:
+
+Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+Softwaare maintenace is the process of updating and maintaining software after they have been deployed.
+There are diffrent type of Software maintenace which include the following;
+1.Corrective maintenace this is carried out in order to correct any errors left when desining , coding ,testing and documenting.
+2. Adaptive maintenance software here are modified to match changes in the ever-changing environment .
+3. Preventive maintenance it is the process by which we prevent our system from being obsolete by adding new features .
+4. Perfective maintenance aims to adjust software by adding new features as necessary and removing features that are irrelevant or not effective in the given software. 
+Maintenace is an essential part of the software lifecycle as it ensures that the software remains functional, secure, and relevant over time. 
+
+Ethical Considerations in Software Engineering:
+What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+
+Data protection -collecting, storing, and processing user data can lead to privacy violations if not handled responsibly.
+Security - this may happen if a  software is realesed with known security flaws or failing to update software to protect against new threats.
+Intellectual Property (IP) this can occure if a software engineer is Using unlicensed software or copys code without permission.
+Software engineers can attend workshops, take online courses, or participate in conferences focused on ethics in software engineering and also Create software that is resource-efficient and supports older hardware to extend the lifespan of devices.
+
+
+
+
+
+Submission Guidelines:
+Your answers should be well-structured, concise, and to the point.
+Provide real-world examples or case studies wherever possible.
+Cite any references or sources you use in your answers.
+Submit your completed assignment by [due date].
